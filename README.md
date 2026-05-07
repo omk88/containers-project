@@ -1,1 +1,1 @@
-# practice-project-myapp
+# Docker/Kubernetes certification practise project
